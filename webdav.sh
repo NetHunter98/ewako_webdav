@@ -23,14 +23,14 @@ mv HnVyQPtR webdav.py
 chmod 777 webdav.py
 
 clear
-figlet " Terinstall..." | lolcat
+figlet "Terinstall . . ." | lolcat
 sleep 3
-echo "# webdav berhasil diinstall" | lolcat
+echo "### webdav berhasil diinstall" | lolcat
 echo
 echo "=> jalankan dengan perintah :" | lolcat
 echo "> cd webdav" | lolcat
-echo "> python2 webdav.py | lolcat
-echo
+echo "> python2 webdav.py" | lolcat
+echo "> setelah itu, kamu kembangkan dengan imajinasimu :)" | lolcat
 
 
 
