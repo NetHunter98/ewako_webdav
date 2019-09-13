@@ -21,12 +21,15 @@ apt install wget
 wget http://pastebin.com/raw/HnVyQPtR
 mv HnVyQPtR webdav.py
 chmod 777 webdav.py
-python2 webdav.py
-ls
-cd webdav
-ls
-python2 webdav.py
 
+clear
+figlet " Terinstall" | lolcat
+echo "# webdav berhasil diinstall" | lolcat
+echo
+echo "=> jalankan dengan perintah :" | lolcat
+echo "> cd webdav" | lolcat
+echo "> python2 webdav.py | lolcat
+echo
 
 
 
