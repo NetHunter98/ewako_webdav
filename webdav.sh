@@ -11,7 +11,7 @@ echo "=> Sedang Menginstall Webdav....." | lolcat
 echo "---------------------------------" | lolcat
 echo
 sleep 7
-cd $HOME
+
 apt install python2
 pip2 install urllib3 chardet certifi idna requests
 apt install openssl curl && apt install libcurl
@@ -21,11 +21,12 @@ apt install wget
 wget http://pastebin.com/raw/HnVyQPtR
 mv HnVyQPtR webdav.py
 chmod 777 webdav.py
+python2 webdav.py
 
-clear
-figlet " Terinstall " | lolcat
-echo
-sleep 3
-echo "> Webdav Sudah Terinstall" | lolcat
-echo "> Silahkan Cek Di HOME TermuxMu" | lolcat
-echo
+
+
+
+
+
+
+
