@@ -2,6 +2,8 @@
 clear
 figlet "WEBDAV                 " | lolcat
 echo "#####@@@-_Tawakkal23_-@@@#####  " | lolcat
+echo 
+echo "=====================================" | lolcat
 echo
 echo "# Gunakan Tool ini Sebaik baiknya" | lolcat
 echo "# Jangan Ceroboh" | lolcat
@@ -26,7 +28,7 @@ chmod 777 webdav.py
 clear
 figlet "Terinstall . . ." | lolcat
 sleep 3
-echo "webdav berhasil diinstall....." | lolcat
+echo "# webdav berhasil diinstall....." | lolcat
 echo
 
 
