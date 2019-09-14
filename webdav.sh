@@ -29,6 +29,7 @@ clear
 figlet "Terinstall . . ." | lolcat
 sleep 3
 echo "# webdav berhasil diinstall....." | lolcat
+echo "# silahkan cek di HOME TermuxMu" | lolcat
 echo
 
 
