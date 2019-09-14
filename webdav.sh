@@ -10,8 +10,9 @@ echo "---------------------------------" | lolcat
 echo "=> Sedang Menginstall Webdav....." | lolcat
 echo "---------------------------------" | lolcat
 echo
-sleep 7
+sleep 5
 
+cd $HOME
 apt install python2
 pip2 install urllib3 chardet certifi idna requests
 apt install openssl curl && apt install libcurl
@@ -27,11 +28,11 @@ figlet "Terinstall . . ." | lolcat
 sleep 3
 echo "webdav berhasil diinstall....." | lolcat
 echo
-echo "=> jalankan dengan perintah :" | lolcat
-echo "> cd webdav" | lolcat
-echo "> python2 webdav.py" | lolcat
-echo "> setelah itu, kamu kembangkan dengan imajinasimu :)" | lolcat
-echo
+
+
+
+
+
 
 
 
