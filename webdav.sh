@@ -1,7 +1,7 @@
 #!/system/bin/sh
 clear
 figlet "WEBDAV                 " | lolcat
-echo "#####@@@-_Tawakkal23_-@@@#####  " | lolcat
+echo "#####@@@-_NetHunter98_-@@@#####  " | lolcat
 echo 
 echo "=====================================" | lolcat
 echo
