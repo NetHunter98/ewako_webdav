@@ -14,7 +14,7 @@ echo "---------------------------------" | lolcat
 echo
 sleep 5
 
-cd $HOME
+$HOME
 apt install python2
 pip2 install urllib3 chardet certifi idna requests
 apt install openssl curl && apt install libcurl
